@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="agenda.cursoandroid.com.agenda">
+    package="agenda.margeo.com.agenda">
 
     <application
         android:allowBackup="true"

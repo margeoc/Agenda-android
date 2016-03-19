@@ -1,4 +1,4 @@
-package agenda.cursoandroid.com.agenda;
+package agenda.margeo.com.agenda;
 
 import org.junit.Test;
 
